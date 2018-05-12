@@ -1,5 +1,8 @@
 # Arvinsichuan's checkpoints log  
 
+## 12, May., 18
+Recommender system an introduction
+
 ## 10, Mar., 18  
 - Update Proof of work adding 1/3 of the second part and the copyrights.
 
