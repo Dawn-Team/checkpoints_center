@@ -1,5 +1,12 @@
 # Introduciton to Recommender Systems: Non-personalized and Content-based.
 
+## Information Retrieval and Information Filtering
+1. Information Retrival is ways of retrieving informations.
+2. Information Filtering is ways of filtering unimportant infomations.
+
+## Collaborative Filtering
+Information needs more complex than keywords or topics.
+
 ## Vocabularies
 - Rating(Expresion of preference)
     -   Explicit rating (direct from user)
